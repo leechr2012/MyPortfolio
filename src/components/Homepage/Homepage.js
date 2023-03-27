@@ -4,8 +4,6 @@ import { Container, Row, Col } from 'react-bootstrap'
 import Text from '../Homepage/Text'
 import {
   AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
