@@ -41,7 +41,7 @@ function Projectlist() {
                   CarCar Co. is an application that serves as an automobile dealership web-page. CarCar Co. features include inventory management, sales data/management, and vehicle service related management. Each feature is categorized into microservices that utilize RESTful APIs in order to send data between one another.
                     <br />
                     <br />
-                    Stack: Django, React, PostgresSQL, Boostrap, Python, JavaScript"
+                    Stack: Django, React, PostgresSQL, Boostrap, Python, JavaScript
                   </>
                 }
                 ghLink="https://gitlab.com/chris_lee253/project-beta"
