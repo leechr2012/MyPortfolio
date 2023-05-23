@@ -6,6 +6,7 @@ import {
   AiFillGithub,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { FaGitlab } from 'react-icons/fa';
 
 function Home() {
   return (
@@ -22,9 +23,13 @@ function Home() {
             }}
               className='socailmediabtn'><FaLinkedinIn className='icon' /></button>
             <button onClick={() => {
-              window.open("https://gitlab.com/chris_lee253");
+              window.open("https://github.com/leechr2012");
             }}
               className='socailmediabtn'><AiFillGithub className='icon' /></button>
+            <button onClick={() => {
+              window.open("https://gitlab.com/chris_lee253");
+            }}
+              className='socailmediabtn'><FaGitlab className='icon' /></button>
           </Col>
 
           <Col md={5}>
